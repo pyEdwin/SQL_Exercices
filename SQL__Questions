@@ -7,3 +7,5 @@ Query 3: Retrieve all employees in department 5 whose salary is between 60000 an
 Query 4A: Retrieve a list of employees ordered by department ID.
 
 Query 4B: Retrieve a list of employees ordered in descending order by department ID and within each department ordered alphabetically in descending order by last name.
+
+Query 5A: For each department ID retrieve the number of employees in the department.
